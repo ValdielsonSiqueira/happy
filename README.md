@@ -1,5 +1,5 @@
  <p align="center">
-    <img src="/www/web/src/images/logo.svg" />
+    <img src="/github/logo.png" />
 </p>
 
 ## :pushpin: Lista de conteúdo
