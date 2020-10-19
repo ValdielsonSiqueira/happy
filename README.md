@@ -7,7 +7,7 @@
 <!--ts-->
 
 - [Sobre](#sobre)
-- [Tecnologias Utilizadas](#:computer-tecnologias-utilizadas)
+- [Tecnologias Utilizadas](#computer-tecnologias-utilizadas)
 - [Instalação](#books-instalação)
 - [Para rodar projeto o Backend](#arrow_forward-para-rodar-projeto-o-backend)
 - [Para rodar projeto o Web](#arrow_forward-para-rodar-o-projeto-web)
