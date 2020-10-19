@@ -2,16 +2,16 @@
     <img src="./www/web/src/images/logo.svg" />
 </p>
 
-## :pushpin: Table of Contents
+## :pushpin: Lista de conteúdo
 
 <!--ts-->
 
 - [Sobre](#sobre)
 - [Tecnologias-Ferramentas Utilizadas](#:computer-tecnologias-ferramentas-utilizadas)
-- [Instalação](#books-instalacao)
-- [Para rodar projeto Backend](#:arrow_forward-ara-rodar-o-backend)
+- [Instalação](#books-instalação)
+- [Para rodar projeto Backend](#:arrow_forward-para-rodar-o-backend)
 - [Para rodar projeto Web](#:arrow_forward-para-rodar-o-projeto-web)
-- [Para rodar projeto Web](#arrow_forward-para-rodar-o-projeto-mobile:)
+- [Para rodar projeto Mobile](#arrow_forward-para-rodar-o-projeto-mobile:)
 
 <!--te-->
 
@@ -62,7 +62,7 @@ Logo Modificada: https://www.freepik.com/free-vector/modern-owl-logo-collection_
 	<img src="/github/mobile.gif" />
 </p>
 
-## :computer: Tecnologias-Ferramentas Utilizadas:
+## :computer: Tecnologias-Ferramentas Utilizadas
 
 Backend:
 
@@ -92,7 +92,7 @@ Mobile:
 - [TypeScrip](https://www.typescriptlang.org/docs/)
 - [Expo](https://expo.io/)
 
-## :books: Instalação:
+## :books: Instalação
 
 Clone o repositório:
 
@@ -106,7 +106,7 @@ Acessar pasta do projeto:
 $ cd happy
 ```
 
-## :arrow_forward: Para rodar o backend:
+## :arrow_forward: Para rodar o backend
 
 ```sh
 $ cd backend
@@ -130,7 +130,7 @@ Inicie o servidor:
 $ yarn dev
 ```
 
-## :arrow_forward: Para rodar o projeto web:
+## :arrow_forward: Para rodar o projeto web
 
 Acessa a pasta do frontend:
 
@@ -146,7 +146,7 @@ $ yarn start
 
 ---
 
-## :arrow_forward: Para rodar o projeto mobile:
+## :arrow_forward: Para rodar o projeto mobile
 
 Acessa a pasta do mobile:
 
