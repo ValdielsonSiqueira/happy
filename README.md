@@ -1,5 +1,5 @@
  <p align="center">
-    <img src="./www/web/src/images/logo.svg" />
+    <img src="/www/web/src/images/logo.svg" />
 </p>
 
 ## :pushpin: Lista de conteúdo
@@ -7,11 +7,11 @@
 <!--ts-->
 
 - [Sobre](#sobre)
-- [Tecnologias-Ferramentas Utilizadas](#:computer-tecnologias-ferramentas-utilizadas)
+- [Tecnologias Utilizadas](#:computer-tecnologias-utilizadas)
 - [Instalação](#books-instalação)
-- [Para rodar projeto Backend](#:arrow_forward-para-rodar-o-backend)
-- [Para rodar projeto Web](#:arrow_forward-para-rodar-o-projeto-web)
-- [Para rodar projeto Mobile](#arrow_forward-para-rodar-o-projeto-mobile:)
+- [Para rodar projeto o Backend](#:arrow_forward-para-rodar-o-backend)
+- [Para rodar projeto o Web](#:arrow_forward-para-rodar-o-projeto-web)
+- [Para rodar projeto o Mobile](#arrow_forward-para-rodar-o-projeto-mobile:)
 
 <!--te-->
 
@@ -62,7 +62,7 @@ Logo Modificada: https://www.freepik.com/free-vector/modern-owl-logo-collection_
 	<img src="/github/mobile.gif" />
 </p>
 
-## :computer: Tecnologias-Ferramentas Utilizadas
+## :computer: Tecnologias Utilizadas
 
 Backend:
 
@@ -106,7 +106,7 @@ Acessar pasta do projeto:
 $ cd happy
 ```
 
-## :arrow_forward: Para rodar o backend
+## :arrow_forward: Para rodar projeto o Backend
 
 ```sh
 $ cd backend
@@ -130,7 +130,7 @@ Inicie o servidor:
 $ yarn dev
 ```
 
-## :arrow_forward: Para rodar o projeto web
+## :arrow_forward: Para rodar o projeto Web
 
 Acessa a pasta do frontend:
 
@@ -146,7 +146,7 @@ $ yarn start
 
 ---
 
-## :arrow_forward: Para rodar o projeto mobile
+## :arrow_forward: Para rodar o projeto Mobile
 
 Acessa a pasta do mobile:
 
